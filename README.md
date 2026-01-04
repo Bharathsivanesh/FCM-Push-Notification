@@ -154,3 +154,5 @@ Select your Android App
 Click Review → Publish
 
 📩 Notification will be received on the installed app.
+
+https://github.com/user-attachments/assets/9a588037-a3c4-467b-b5a4-45c6937416bd
