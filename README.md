@@ -31,11 +31,11 @@ npm install @react-native-firebase/app
 npm install @react-native-firebase/firestore
 npm install @react-native-firebase/messaging
 ```
-##
+
 ⚙️ Firebase Configuration
 3️⃣ Set Android Package Name
 
-Update app.json:
+## Update app.json:
 
 {
   "expo": {
@@ -48,7 +48,7 @@ Update app.json:
 
 📌 Use the same package name in Firebase Console.
 
-4️⃣ Firebase Console Setup
+## 4️⃣ Firebase Console Setup
 
 Go to Firebase Console
 
@@ -65,7 +65,7 @@ Download google-services.json
 
 Place it in the project root directory
 
-5️⃣ Link google-services.json in Expo
+## 5️⃣ Link google-services.json in Expo
 
 Update app.json:
 
@@ -82,7 +82,7 @@ Update app.json:
 Expo will automatically copy this file into android/app/ during build.
 
 🔐 FCM HTTP v1 Setup (Required)
-6️⃣ Generate Service Account Key
+## 6️⃣ Generate Service Account Key
 
 Firebase Console → Project Settings
 
@@ -100,7 +100,7 @@ Add to .gitignore:
 
 *-firebase-adminsdk-*.json
 
-7️⃣ Configure FCM using EAS
+## 7️⃣ Configure FCM using EAS
 
 Run:
 
@@ -136,7 +136,7 @@ Install the generated APK on your Android device.
 
 Android Settings → Apps → Your App
 
-Enable Notifications
+## Enable Notifications
 
 🧪 Testing Push Notifications
 Using Firebase Console
