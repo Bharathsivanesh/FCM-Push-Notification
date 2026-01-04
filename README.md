@@ -156,5 +156,6 @@ Click Review → Publish
 📩 Notification will be received on the installed app.
 
 ## ScreenShots
+![Image](https://github.com/user-attachments/assets/680fadba-27ab-477e-82f5-337b032552ee)
 <img width="1883" height="869" alt="Image" src="https://github.com/user-attachments/assets/c620b549-743a-42d2-be9a-29476100807d" />
 <img width="1338" height="594" alt="Image" src="https://github.com/user-attachments/assets/b6556df3-c2b0-4186-b39c-7e631eec9780" />
